@@ -1,0 +1,3 @@
+Dandy Lion, A, 200.00f
+John Guest, I, 100.00f, 4.0f
+Cindy Grant,P,250.00f,2.0f
